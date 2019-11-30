@@ -1,0 +1,5 @@
+# jetbrain folder
+.idea/
+
+#uploads data
+uploads/
